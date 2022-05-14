@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pan233.marryme.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MarryMeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

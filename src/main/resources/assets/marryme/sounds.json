@@ -1,0 +1,11 @@
+{
+  "marrying": {
+    "subtitle": "marryme.marrying",
+    "sounds": [
+      {
+        "name": "marryme:marrying",
+        "stream": true
+      }
+    ]
+  }
+}
